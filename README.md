@@ -1,2 +1,2 @@
-# Master-Plug
-Master-Plug will be an Applicant Tracking System
+# PokhInspire
+PokhInspire is an Applicant Tracking System
